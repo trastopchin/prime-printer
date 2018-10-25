@@ -1,7 +1,7 @@
 # prime-printer
 A program that prints out the first 500 prime numbers to the terminal.
 Adapted from John David Stone's CSC-207 programming assignment "The
-Sieve of Eratosthenes," from https://unity.homelinux.net/courses/object-oriented-programming/sieve-assignment.pdf\.
+Sieve of Eratosthenes," from https://unity.homelinux.net/courses/object-oriented-programming/sieve-assignment.pdf
 
 The prime_printer.py as a terminal script prints out the first 500
 prime numbers to the terminal. These numbers are printed ten to a
